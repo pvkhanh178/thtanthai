@@ -1,0 +1,30 @@
+
+/*-------end header----*/
+
+
+
+/*-----------footer----------------*/
+#footer{
+	background: #e5f4f9;
+	margin-top: 20px;
+	z-index: 9999;
+}
+.footer-logo img{
+	max-width: 70%;
+	margin-top: 20px;
+}
+.list-links{
+	list-style-type: none;
+}
+/*-------------end_footer------------*/
+
+.bt b{
+	display: block;
+    padding: 10px 10px;
+    background: #ccc;
+    border-radius: 5px;
+}
+
+/*---bai tap---*/
+
+

@@ -1,0 +1,58 @@
+.bh-khac,.bt-lq{
+    border: 1px solid #d1d1d1;
+    border-radius: 5px;
+
+}
+.bh-khac h3,.bt-lq h3{
+    text-align: center;
+    font-weight: bold;
+}
+
+    .bt-lq ul  li  a  p{
+    text-align: left !important;
+}
+.bt-lq ul li a:hover,.bh-khac ul li a:hover{
+    text-decoration: none;
+    color:#ff6609;
+}
+.font-size-22,.font-size-22 p,.bt-lq ul li div,.bt-lq ul li div p,.bt-lq ul li a p{display: inline;}
+.item-child{
+    margin-left: 20px;
+}
+.treeview a{
+    background: #2ca9e2;
+    width: 100%;
+    display: block;
+    margin-bottom: 5px;
+    border: none;
+    padding: 13px 22px 10px 10px;
+    position: relative;
+    color: #fff;
+    font-weight: bold;
+}
+.treeview > a:hover{
+    background: #ff6609;
+    color:#fff !important;
+}
+.item-child li a{
+    background: #fff;
+    font-size: 16px;
+    color: #2f6a4f;
+    font-weight: bold;
+    text-transform: capitalize !important;
+}
+
+.bt b{
+    display: block;
+    padding: 10px 10px;
+    background: #ccc;
+    border-radius: 5px;
+}
+
+.bt-lq{
+    margin: 10px 0;
+}
+
+
+/*--------------trang chủ---------*/
+/*------bai tap----*/
